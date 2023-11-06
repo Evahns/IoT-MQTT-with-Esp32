@@ -6,3 +6,5 @@ Make sure you have active internet connectivity and that you are aware of the ne
 Make sure you have created Adafruit IO account, create a feed or a dashboard. [Adafruit IO](https://io.adafruit.com/)
 
 [Learn about adafruit IO](https://learn.adafruit.com/adafruit-io/getting-started)
+
+Get to know more about MQTT IoT Protocol from HiveMQ [HiveMQ](https://www.hivemq.com/)
